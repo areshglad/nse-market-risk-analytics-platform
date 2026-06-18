@@ -1,0 +1,13 @@
+NSE Market Data
+        ↓
+Python Analytics
+        ↓
+Databricks
+        ↓
+dbt Bronze
+        ↓
+dbt Silver
+        ↓
+dbt Gold
+        ↓
+Power BI Dashboard
