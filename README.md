@@ -224,7 +224,6 @@ Asset Management | Risk Analytics | Data Analytics | Analytics Engineering
 
 Target Roles:
 
-* Goldman Sachs New Analyst
 * Asset Management Analyst
 * Risk Analyst
 * Investment Analytics
